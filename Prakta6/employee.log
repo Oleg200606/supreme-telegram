@@ -1,0 +1,20 @@
+мая 19, 2024 10:51:38 PM org.example.Main$Employee isAdult
+INFO: Проверка совершеннолетия для сотрудника Олег
+мая 19, 2024 10:51:55 PM org.example.Main$Employee isQuiteExperienced
+INFO: Проверка опыта для сотрудника Олег требуется 5
+мая 19, 2024 10:51:55 PM org.example.Main$Employee calculateSalary
+INFO: Расчет зарплаты для сотрудника Олег выбранная работа 1 зарплата 20000
+мая 19, 2024 10:51:55 PM org.example.Main$Employee getPosition
+INFO: Получение должности для сотрудника Олег выбранная работа 1 должность Токарь
+мая 19, 2024 10:51:55 PM org.example.Main$Employee printUpdatedInfo
+INFO: Вывод обновленной информации для сотрудника Олег
+мая 20, 2024 12:17:43 AM org.example.Main$Employee isAdult
+INFO: Проверка совершеннолетия для сотрудника олег
+мая 20, 2024 12:17:47 AM org.example.Main$Employee isQuiteExperienced
+INFO: Проверка опыта для сотрудника олег требуется 10
+мая 20, 2024 12:17:47 AM org.example.Main$Employee calculateSalary
+INFO: Расчет зарплаты для сотрудника олег выбранная работа 3 зарплата 55000
+мая 20, 2024 12:17:47 AM org.example.Main$Employee getPosition
+INFO: Получение должности для сотрудника олег выбранная работа 3 должность Сверльщик
+мая 20, 2024 12:17:47 AM org.example.Main$Employee printUpdatedInfo
+INFO: Вывод обновленной информации для сотрудника олег
